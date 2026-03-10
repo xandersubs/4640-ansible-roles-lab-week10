@@ -24,3 +24,6 @@ ansible-inventory --graph
 ```bash
 ansible-playbook playbook.yml
 ```
+## screenshot
+<img width="861" height="286" alt="image" src="https://github.com/user-attachments/assets/2b2ef918-49c6-4320-b172-4434ba1b36a4" />
+
