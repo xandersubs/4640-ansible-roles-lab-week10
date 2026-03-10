@@ -15,12 +15,12 @@ terraform init
 terraform plan
 terraform apply
 ```
-##Running Ansible
-###Verify dynamic inventory is working
+## Running Ansible
+### Verify dynamic inventory is working
 ```bash
 ansible-inventory --graph
 ```
-###Run the full playbook
+### Run the full playbook
 ```bash
 ansible-playbook playbook.yml
 ```
